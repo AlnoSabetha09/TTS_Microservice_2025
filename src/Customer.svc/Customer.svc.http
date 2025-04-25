@@ -1,0 +1,6 @@
+@Customer.svc_HostAddress = http://localhost:5160
+
+GET {{Customer.svc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

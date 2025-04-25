@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1m52CjAQzA9hooHV0Vot/ULI37bOkmq3FOHFGewVNrk=",
+  "Source": "Transaction.svc",
+  "BasePath": "_content/Transaction.svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

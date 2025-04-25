@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Catalog.svc.Entities
+{
+    public class Product
+    {
+        public Guid ProductId { get; set; } = Guid.NewGuid();
+        public string ProductName { get; set; }
+        public Guid CategoryId { get; set; }
+        public decimal Price { get; set; }
+        public int StockQuantity { get; set; }
+        public string Description { get; set; }
+
+
+        public Category Category { get; set; }
+    }
+}

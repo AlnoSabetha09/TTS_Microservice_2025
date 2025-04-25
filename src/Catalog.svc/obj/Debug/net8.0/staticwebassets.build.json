@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ucDEkpmr1BWym3EqOlQIU9Mo3aLYneZFzDU3oSlgVew=",
+  "Source": "Catalog.svc",
+  "BasePath": "_content/Catalog.svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

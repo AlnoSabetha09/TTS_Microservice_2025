@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W5mOiI9UgzWql6HTRIwacqVqVi9GcE0cMFljPAa7KMs=",
+  "Source": "Customer.svc",
+  "BasePath": "_content/Customer.svc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
